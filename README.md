@@ -109,3 +109,8 @@
 <p align="center"> 
   <img width="1280" height="409" src="https://i.imgur.com/UINyiVo.png">
 </p>
+
+
+<p align="center"> 
+  Oh hey! Made it this far? Hell yeah, how about whispering me "CLANK CLANK CLANK" if you read all of it lmao
+</p>
