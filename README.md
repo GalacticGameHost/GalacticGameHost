@@ -96,6 +96,13 @@
   <img width="200" src="https://komarev.com/ghpvc/?username=GalacticGameHost" alt="Border">
 </p>
 
+<p align="center">
+  <details>
+<summary>Ref sheet heh</summary>
+<img width="900" src="https://i.imgur.com/4ENPipk.png" alt="Border">
+</details>
+</p>
+
 <p align="center"> 
   <img width="900" src="https://i.imgur.com/sGIbUIn.png">
 </p>
